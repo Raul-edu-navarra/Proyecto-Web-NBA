@@ -1,0 +1,56 @@
+.TablaInicio {
+    text-align: center;
+    width:100%;
+}
+
+.TablaInicio img {
+    height: 50px;
+    text-align: left;
+}
+
+.TextoJustificado {
+    text-align: justify;
+}
+
+h2 {
+    text-align: center;
+}
+
+.TextoCentrado {
+    text-align: center;
+    margin: auto;
+}
+
+.TablaEstadisticas {
+    border: 1px solid black;
+    margin: auto;
+}
+
+.TablaEstadisticas tr td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+.TextoCentrado img {
+    height: 400px;
+}
+
+#MichaelJordan {
+    background-color: #E88787;
+}
+
+#LebronJames {
+    background-color: #A76364;
+}
+
+#KobeBryant {
+    background-color: #FFD376;
+}
+
+#KareemAbdul-Jabbar {
+    background-color: #87C987;
+}
+
+#ShaquilleO’Neal {
+    background-color: #43809C
+}

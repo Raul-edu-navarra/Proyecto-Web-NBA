@@ -1,0 +1,70 @@
+h2 {
+    text-align: center;
+}
+
+.TablaInicio {
+    text-align: center;
+    width:100%;
+}
+
+.TablaInicio img {
+    height: 50px;
+    text-align: left;
+}
+
+.TablaFila {
+    width: 100%;
+}
+
+.TablaJugador {
+    border: 1px black solid;
+    text-align: center;
+}
+
+.TablaJugador img {
+    border: 1px black solid;
+    height: 230px;
+}
+
+.TablaJugador tr td{
+    border: 1px black solid;
+}
+
+#LarryBird {
+    background-color: #418E6D;
+}
+
+#MagicJohnson {
+    background-color: #FEF673;
+}
+
+#JuliusErving {
+    background-color: lightgrey;
+}
+
+#HakeemOlajuwon {
+    background-color: #B96056;
+}
+
+#KarlMalone {
+    background-color: #7492C8;
+}
+
+#TimDuncan {
+    background-color: #8C8C8C;
+}
+
+#OscarRobertson {
+    background-color: #B0D3B5;
+}
+
+#IsiahThomas {
+    background-color: #4A5589;
+}
+
+#StephenCurry {
+    background-color: #DFBF57;
+}
+.TextoCentrado {
+    text-align: center;
+}
